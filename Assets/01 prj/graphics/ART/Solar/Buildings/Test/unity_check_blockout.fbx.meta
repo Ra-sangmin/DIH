@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 3f7f5680f94cc7d4698ab5fa42aafe2e
+timeCreated: 1526287934
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: camera3
+    100004: pCube28
+    100006: pCube68
+    100008: pCube69
+    100010: pCube70
+    100012: pCube71
+    100014: pCylinder12
+    100016: pCylinder31
+    100018: pCylinder32
+    100020: pCylinder40
+    100022: pCylinder42
+    100024: pCylinder48
+    100026: polySurface14
+    100028: polySurface23
+    100030: polySurface29
+    100032: polySurface30
+    100034: polySurface31
+    100036: polySurface39
+    400000: //RootNode
+    400002: camera3
+    400004: pCube28
+    400006: pCube68
+    400008: pCube69
+    400010: pCube70
+    400012: pCube71
+    400014: pCylinder12
+    400016: pCylinder31
+    400018: pCylinder32
+    400020: pCylinder40
+    400022: pCylinder42
+    400024: pCylinder48
+    400026: polySurface14
+    400028: polySurface23
+    400030: polySurface29
+    400032: polySurface30
+    400034: polySurface31
+    400036: polySurface39
+    2300000: //RootNode
+    2300002: pCube28
+    2300004: pCube69
+    2300006: pCube70
+    2300008: pCube71
+    2300010: pCylinder31
+    2300012: pCylinder32
+    2300014: pCylinder40
+    2300016: pCylinder42
+    2300018: pCylinder48
+    2300020: polySurface14
+    2300022: polySurface23
+    2300024: polySurface29
+    2300026: polySurface30
+    2300028: polySurface31
+    2300030: polySurface39
+    3300000: //RootNode
+    3300002: pCube28
+    3300004: pCube69
+    3300006: pCube70
+    3300008: pCube71
+    3300010: pCylinder31
+    3300012: pCylinder32
+    3300014: pCylinder40
+    3300016: pCylinder42
+    3300018: pCylinder48
+    3300020: polySurface14
+    3300022: polySurface23
+    3300024: polySurface29
+    3300026: polySurface30
+    3300028: polySurface31
+    3300030: polySurface39
+    4300000: pCube70
+    4300002: polySurface24
+    4300004: polySurface14
+    4300006: polySurface23
+    4300008: pCube28
+    4300010: pCylinder31
+    4300012: pCylinder32
+    4300014: polySurface30
+    4300016: polySurface31
+    4300018: pCube69
+    4300020: pCylinder40
+    4300022: polySurface29
+    4300024: pCube71
+    4300026: pCylinder42
+    4300028: pCylinder48
+    4300030: polySurface39
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
